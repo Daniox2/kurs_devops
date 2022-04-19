@@ -1,2 +1,2 @@
 # kurs_devops
-main-hotfix
+main-feature
